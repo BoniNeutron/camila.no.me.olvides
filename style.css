@@ -1,0 +1,38 @@
+body {
+    font-family: 'Fredericka the Great', cursive;
+    background-color: #212F3D;
+    color: #ffffff;
+    font-size: 2vh;
+}
+
+.btn {
+    color: red;
+    font-family: 'Fredericka the Great', cursive;
+    text-decoration: none;
+    border: 0px solid;
+    background-color: blanchedalmond;
+    border-radius: 3px;
+    padding: 2vh 5vw;
+    font-size: 3vh;
+}
+
+.sorpresa {
+    padding-bottom: 20%;
+    
+}
+
+.center-text {
+    text-align: center;
+    font-size: 3vh;
+}
+
+.container {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.ancho {
+    width: 60%;
+    display:block;
+    margin: auto;
+}
