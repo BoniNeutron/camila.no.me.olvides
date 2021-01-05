@@ -1,24 +1,18 @@
 body {
-    font-family: 'Fredericka the Great', cursive;
-    background-color: #212F3D;
+    font-family: 'Comfortaa', cursive;
+    background-color: #A197FE;
     color: #ffffff;
     font-size: 2vh;
 }
 
 .btn {
-    color: red;
-    font-family: 'Fredericka the Great', cursive;
+    color: #ffffff;
     text-decoration: none;
     border: 0px solid;
-    background-color: blanchedalmond;
+    background-color: #FE97B0;
     border-radius: 3px;
-    padding: 2vh 5vw;
+    padding: 1.5vh 5vw;
     font-size: 3vh;
-}
-
-.sorpresa {
-    padding-bottom: 20%;
-    
 }
 
 .center-text {
@@ -28,11 +22,24 @@ body {
 
 .container {
     text-align: center;
-    margin-top: 20%;
+    margin-top: 10vh;
 }
 
 .ancho {
-    width: 60%;
+    width: 60vw;
     display:block;
     margin: auto;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.title img {
+    height: 4vh;
+    margin-left: 1.5vh;
 }

@@ -12,12 +12,12 @@ function cargarEventListeners() {
 // FUNCIONES
 function agregarSorpresa() {
     const mensajeSorpresa = document.createElement('p');
-    mensajeSorpresa.textContent = 'HOLA CAMI';
+    mensajeSorpresa.textContent = 'Feliz cumpleaños xd';
     mensajeSorpresa.classList.add('center-text');
     
 
     const imgSorpresa = document.createElement('img');
-    imgSorpresa.setAttribute("src", "img/hola.gif");
+    imgSorpresa.setAttribute("src", "img/hb.gif");
     imgSorpresa.setAttribute("alt", "img Sorpresa");
     imgSorpresa.setAttribute("class", "ancho sorpresa");
     
